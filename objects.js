@@ -10,7 +10,7 @@ var carsObject = {
 /**
 1. Write a function for the drive key in carsObject that takes in three arguments (x, y, car) and changes the location
 of the the car specified by the third argument. Figure out how you can alter the location of the car using only
-the key:value pairs given above.
+the key:value pairs given above. If you run into issues, try building the function in the object itself.
 
 Example:
 
