@@ -14,7 +14,7 @@ the key:value pairs given above. If you run into issues, try building the functi
 
 Example:
 
-userCarsIndex.john_2.drive(3, 4, userCarsIndex.john_2);
+userCarsIndex.john_2.drive(3, 4, john_2);
 userCarsIndex.john_2.location -> [3, 4]
 
 HINT: you can use hard brackets [] to indicate to JavaScript that the following is a variable and NOT
